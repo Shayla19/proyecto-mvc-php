@@ -1,5 +1,5 @@
 {
-    "name": "molde/proyecto-mvc-jorge",
+    "name": "molde/proyecto-mvc-shayla",
     "description": "proyecto-mvc",
     "type": "project",
     "autoload": {
@@ -12,7 +12,7 @@
     },
     "authors": [
         {
-            "name": "Jorge Yael Mateo Tadeo"
+            "name": "shayla del Carmen Garcia Mora"
         }
     ],
     "require": {
